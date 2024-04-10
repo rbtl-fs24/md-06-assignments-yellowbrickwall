@@ -120,6 +120,8 @@ waste_data_long_mean
 
 2.  Execute the code and observe the output in the Console. Would you publish this table in a report in this format?
 
+    -   I would fix the look of it of course, but it's much better than the other option.
+
 3.  Render and fix any errors
 
 ```{r}
